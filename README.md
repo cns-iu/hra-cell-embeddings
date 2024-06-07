@@ -2,7 +2,7 @@
 A repo to capture cell embedding visualizations
 
 ## Handbook Explanation
-In the handbook folder, a PDF is used to justify our visualization settings and showcase how our design evolved. 
+In the handbook folder, a [Visualization Handbook](https://github.com/cns-iu/hra-cell-embeddings/blob/main/handbook/453k%20Cell%20Visualization.pdf) is used to justify our visualization settings and showcase how our design evolved. 
 
 ## Code Explanation
 ### Visualization
