@@ -1,6 +1,8 @@
 # hra-cell-embeddings
 A repo to capture cell embedding visualizations
 
+## Handbook Explanation
+In the handbook folder, a PDF is used to justify our visualization settings and showcase how our design evolved. 
 
 ## Code Explanation
 ### Visualization
